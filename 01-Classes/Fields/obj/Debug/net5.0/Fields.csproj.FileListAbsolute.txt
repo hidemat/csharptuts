@@ -1,0 +1,16 @@
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/bin/Debug/net5.0/Fields
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/bin/Debug/net5.0/Fields.deps.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/bin/Debug/net5.0/Fields.runtimeconfig.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/bin/Debug/net5.0/Fields.runtimeconfig.dev.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/bin/Debug/net5.0/Fields.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/bin/Debug/net5.0/ref/Fields.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/bin/Debug/net5.0/Fields.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/obj/Debug/net5.0/Fields.csprojAssemblyReference.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/obj/Debug/net5.0/Fields.GeneratedMSBuildEditorConfig.editorconfig
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/obj/Debug/net5.0/Fields.AssemblyInfoInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/obj/Debug/net5.0/Fields.AssemblyInfo.cs
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/obj/Debug/net5.0/Fields.csproj.CoreCompileInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/obj/Debug/net5.0/Fields.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/obj/Debug/net5.0/ref/Fields.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/obj/Debug/net5.0/Fields.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Fields/obj/Debug/net5.0/Fields.genruntimeconfig.cache

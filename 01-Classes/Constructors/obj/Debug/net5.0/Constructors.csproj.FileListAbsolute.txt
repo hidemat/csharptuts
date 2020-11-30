@@ -1,0 +1,16 @@
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/bin/Debug/net5.0/Constructors
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/bin/Debug/net5.0/Constructors.deps.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/bin/Debug/net5.0/Constructors.runtimeconfig.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/bin/Debug/net5.0/Constructors.runtimeconfig.dev.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/bin/Debug/net5.0/Constructors.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/bin/Debug/net5.0/ref/Constructors.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/bin/Debug/net5.0/Constructors.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/obj/Debug/net5.0/Constructors.csprojAssemblyReference.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/obj/Debug/net5.0/Constructors.GeneratedMSBuildEditorConfig.editorconfig
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/obj/Debug/net5.0/Constructors.AssemblyInfoInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/obj/Debug/net5.0/Constructors.AssemblyInfo.cs
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/obj/Debug/net5.0/Constructors.csproj.CoreCompileInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/obj/Debug/net5.0/Constructors.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/obj/Debug/net5.0/ref/Constructors.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/obj/Debug/net5.0/Constructors.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Constructors/obj/Debug/net5.0/Constructors.genruntimeconfig.cache

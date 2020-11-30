@@ -1,0 +1,16 @@
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/bin/Debug/net5.0/Stopwatch
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/bin/Debug/net5.0/Stopwatch.deps.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.dev.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/bin/Debug/net5.0/Stopwatch.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/bin/Debug/net5.0/ref/Stopwatch.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/bin/Debug/net5.0/Stopwatch.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/obj/Debug/net5.0/Stopwatch.csprojAssemblyReference.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/obj/Debug/net5.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfoInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfo.cs
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/obj/Debug/net5.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/obj/Debug/net5.0/Stopwatch.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/obj/Debug/net5.0/ref/Stopwatch.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/obj/Debug/net5.0/Stopwatch.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/Stopwatch/obj/Debug/net5.0/Stopwatch.genruntimeconfig.cache

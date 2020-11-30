@@ -1,0 +1,16 @@
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/bin/Debug/net5.0/Indexers
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/bin/Debug/net5.0/Indexers.deps.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/bin/Debug/net5.0/Indexers.runtimeconfig.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/bin/Debug/net5.0/Indexers.runtimeconfig.dev.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/bin/Debug/net5.0/Indexers.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/bin/Debug/net5.0/ref/Indexers.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/bin/Debug/net5.0/Indexers.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/obj/Debug/net5.0/Indexers.csprojAssemblyReference.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/obj/Debug/net5.0/Indexers.GeneratedMSBuildEditorConfig.editorconfig
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/obj/Debug/net5.0/Indexers.AssemblyInfoInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/obj/Debug/net5.0/Indexers.AssemblyInfo.cs
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/obj/Debug/net5.0/Indexers.csproj.CoreCompileInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/obj/Debug/net5.0/Indexers.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/obj/Debug/net5.0/ref/Indexers.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/obj/Debug/net5.0/Indexers.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Indexers/obj/Debug/net5.0/Indexers.genruntimeconfig.cache

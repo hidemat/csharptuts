@@ -1,0 +1,16 @@
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/bin/Debug/net5.0/AccessModifiers
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/bin/Debug/net5.0/AccessModifiers.deps.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/bin/Debug/net5.0/AccessModifiers.runtimeconfig.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/bin/Debug/net5.0/AccessModifiers.runtimeconfig.dev.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/bin/Debug/net5.0/AccessModifiers.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/bin/Debug/net5.0/ref/AccessModifiers.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/bin/Debug/net5.0/AccessModifiers.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/obj/Debug/net5.0/AccessModifiers.csprojAssemblyReference.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/obj/Debug/net5.0/AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/obj/Debug/net5.0/AccessModifiers.AssemblyInfoInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/obj/Debug/net5.0/AccessModifiers.AssemblyInfo.cs
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/obj/Debug/net5.0/AccessModifiers.csproj.CoreCompileInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/obj/Debug/net5.0/AccessModifiers.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/obj/Debug/net5.0/ref/AccessModifiers.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/obj/Debug/net5.0/AccessModifiers.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/AccessModifiers/obj/Debug/net5.0/AccessModifiers.genruntimeconfig.cache
