@@ -1,0 +1,16 @@
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/bin/Debug/net5.0/StackOverflow
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/bin/Debug/net5.0/StackOverflow.deps.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/bin/Debug/net5.0/StackOverflow.runtimeconfig.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/bin/Debug/net5.0/StackOverflow.runtimeconfig.dev.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/bin/Debug/net5.0/StackOverflow.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/bin/Debug/net5.0/ref/StackOverflow.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/bin/Debug/net5.0/StackOverflow.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/obj/Debug/net5.0/StackOverflow.csprojAssemblyReference.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/obj/Debug/net5.0/StackOverflow.GeneratedMSBuildEditorConfig.editorconfig
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/obj/Debug/net5.0/StackOverflow.AssemblyInfoInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/obj/Debug/net5.0/StackOverflow.AssemblyInfo.cs
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/obj/Debug/net5.0/StackOverflow.csproj.CoreCompileInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/obj/Debug/net5.0/StackOverflow.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/obj/Debug/net5.0/ref/StackOverflow.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/obj/Debug/net5.0/StackOverflow.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/01-Classes/Exercises/StackOverflow/obj/Debug/net5.0/StackOverflow.genruntimeconfig.cache
