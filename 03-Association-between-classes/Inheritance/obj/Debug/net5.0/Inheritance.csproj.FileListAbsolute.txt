@@ -1,0 +1,16 @@
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/bin/Debug/net5.0/Inheritance
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.dev.json
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/bin/Debug/net5.0/ref/Inheritance.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/obj/Debug/net5.0/Inheritance.csprojAssemblyReference.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/obj/Debug/net5.0/Inheritance.pdb
+/home/hideki/Documents/01-coding/C#/01-csharp-tutorials/03-Association-between-classes/Inheritance/obj/Debug/net5.0/Inheritance.genruntimeconfig.cache
